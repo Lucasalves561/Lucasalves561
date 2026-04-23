@@ -47,8 +47,7 @@ com uma base sólida em programação e experiência prática em projetos reais.
 
 ## 📫 Contato
 
-- GitHub: https://github.com/seuusuario
-- Email: seuemail@email.com
+- Email: lucasalves55682@gmail.com
 
 ---
 
